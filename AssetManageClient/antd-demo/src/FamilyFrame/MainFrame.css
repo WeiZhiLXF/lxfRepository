@@ -1,0 +1,15 @@
+.lxf-header {
+    width: 100%;
+    position: relative;
+}
+.username {
+   position: absolute;
+   top: 0px;
+   right: 10px;
+   height: 100%;
+   
+}
+.title {
+   padding: 0px 15px;
+   color: white;
+}

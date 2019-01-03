@@ -1,0 +1,29 @@
+{
+   "name": "antd-demo",
+   "version": "0.1.0",
+   "private": true,
+   "dependencies": {
+      "babel-plugin-import": "^1.8.0",
+      "babylonjs": "^3.3.0",
+      "babylonjs-gui": "^3.3.0",
+      "babylonjs-inspector": "^3.3.0",
+      "babylonjs-loaders": "^3.3.0",
+      "babylonjs-materials": "^3.3.0",
+      "history": "^4.7.2",
+      "jquery": "^3.3.1",
+      "react": "^16.4.2",
+      "react-app-rewired": "^1.6.2",
+      "react-babylonjs": "^0.4.9",
+      "react-dom": "^16.4.2",
+      "react-router": "^4.3.1",
+      "react-router-dom": "^4.3.1",
+      "react-scripts": "1.1.5",
+      "redux": "^4.0.1"
+   },
+   "scripts": {
+      "start": "react-app-rewired start",
+      "build": "react-app-rewired build",
+      "test": "react-app-rewired test --env=jsdom",
+      "eject": "react-scripts eject"
+   }
+}

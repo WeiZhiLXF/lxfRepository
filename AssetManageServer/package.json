@@ -1,0 +1,22 @@
+{
+  "name": "node-mysql-services",
+  "version": "1.0.0",
+  "description": "node mysql services",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "mysql",
+    "express"
+  ],
+  "author": "yc",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mysql": "^2.15.0",
+    "url": "^0.11.0"
+  }
+}
